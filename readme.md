@@ -1,3 +1,11 @@
+# Project Monitoring menggunakan CodeIgniter
+
+Ini merupakan penugasan sebagai peserta magang yang mendaftar pada MSIBxYHC dimana ini merupakan penugasan untuk posisi Web Developer Digitaliz.
+Disini saya menggunakan Framework CodeIgniter, html, css, js Bootstrap.
+
+Jalankan :
+- Untuk menjalankannya import database dengan nama "informasimonitoring" tanpa tanda petik
+- Untuk nama projectnya "fellymonitoring" tanpa tanda petik
 
 ## Screenshots Hasil
 ### Tampil Data
